@@ -18,22 +18,22 @@ theBeatlesPlay(musicians, instruments);
 
 
 
-var musicians = []
-var instruments = []
+// var musicians = []
+// var instruments = []
 
-function theBeatlesPlay {}
+// function theBeatlesPlay {}
 
-var musicians = []
+// var musicians = []
 
-for (let i = 0; i < 4; i++)
+// for (let i = 0; i < 4; i++)
 
 
-var musicians, instruments;
+// var musicians, instruments;
 
-musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"];
+// musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"];
 
-instruments = ["guitar", "bass", "drums", "guitar"]
+// instruments = ["guitar", "bass", "drums", "guitar"]
 
-function theBeatlesPlay () {
+// function theBeatlesPlay () {
   
-}//
+// }
