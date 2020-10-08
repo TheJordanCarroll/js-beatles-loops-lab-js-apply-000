@@ -23,8 +23,8 @@ const facts = [
   "He hated the sound of his own voice"
 ]
 
-function johnLennonFacts() {
-  while ()
+function johnLennonFacts(arrayFacts) {
+  while (i < arrayFacts.length)
 }
 
 // var musicians = []
