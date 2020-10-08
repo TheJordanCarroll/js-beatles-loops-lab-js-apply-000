@@ -37,7 +37,12 @@ function johnLennonFacts(arrayFacts) {
 console.log(johnLennonFacts(facts));
 
 function iLoveTheBeatles(array1) {
+  let i = 0
   let results = []
-  
+  do {
+  i += 1;
+  console.log(i);
+} while (i < 5);
+
   
 }
