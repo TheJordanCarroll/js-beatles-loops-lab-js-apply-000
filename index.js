@@ -13,7 +13,7 @@ var musicians, instruments;
 
 musicians = ["John Lennon", "Paul McCartney," "Ringo Starr," "George Harrison"];
 
-instruments = []
+instruments = [""]
 
 var musicians = []
 var instruments = []
