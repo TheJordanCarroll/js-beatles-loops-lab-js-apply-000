@@ -1,4 +1,9 @@
 // add solution here
+var musicians, instruments;
+
+musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"];
+
+instruments = ["guitar", "bass", "drums", "guitar"]
 
 function theBeatlesPlay(arrayMusicians, arrayInstruments) {
   var results = []
@@ -10,6 +15,7 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments) {
 }
 
 theBeatlesPlay(musicians, instruments);
+
 
 
 var musicians = []
@@ -30,4 +36,4 @@ instruments = ["guitar", "bass", "drums", "guitar"]
 
 function theBeatlesPlay () {
   
-}
+}//
