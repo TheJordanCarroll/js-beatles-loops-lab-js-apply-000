@@ -24,7 +24,7 @@ const facts = [
 ]
 
 function johnLennonFacts() {
-  
+  while ()
 }
 
 // var musicians = []
