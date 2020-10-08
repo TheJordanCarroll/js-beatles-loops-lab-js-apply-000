@@ -6,8 +6,7 @@ function theBeatlesPlay ()
 
 var musicians = []
 
-for (let i = 0; i < selectObject.options.length; i++)
-  for 
+for (let i = 0; i < 4; i++)
   
 var musicians, instruments;
 
