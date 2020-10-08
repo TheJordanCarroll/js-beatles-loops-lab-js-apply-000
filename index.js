@@ -24,11 +24,12 @@ const facts = [
 ]
 
 function johnLennonFacts(arrayFacts) {
-  let i;
+  let i = 0;
+  let results = []
   while (i < arrayFacts.length) {
+    let value = arrayFacts[i];
     i++
-   var info = `${arrayFacts[i]}!!!`
-   results.push(info);
+   results.push`$value$`;
   } 
   return arrayFacts;
 } 
