@@ -25,9 +25,8 @@ const facts = [
 
 function johnLennonFacts(arrayFacts) {
   let i;
-  while (i < arrayFacts.length) {
+  while (i < arrayFacts.length; i++) {
    `${arrayFacts[i]}!!!`
-   i++
   } 
   return arrayFacts;
 } 
