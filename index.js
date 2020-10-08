@@ -16,7 +16,10 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments) {
 
 console.log(theBeatlesPlay(musicians, instruments));
 
-
+js const facts = []
+function johnLennonFacts() {
+  
+}
 
 // var musicians = []
 // var instruments = []
