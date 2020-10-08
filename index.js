@@ -24,8 +24,15 @@ const facts = [
 ]
 
 function johnLennonFacts(arrayFacts) {
-  while (i < arrayFacts.length)
-}
+  let i;
+  while (i < arrayFacts.length) {
+   `${arrayFacts[i]}!`
+   i++
+  } 
+  return arrayFacts;
+} 
+
+console.log(johnLennonFacts(facts));
 
 // var musicians = []
 // var instruments = []
