@@ -29,9 +29,9 @@ function johnLennonFacts(arrayFacts) {
   while (i < arrayFacts.length) {
     let value = arrayFacts[i];
     i++
-   results.push`$value$`;
+   results.push(`${value}!!!`);
   } 
-  return arrayFacts;
+  return results;
 } 
 
 console.log(johnLennonFacts(facts));
