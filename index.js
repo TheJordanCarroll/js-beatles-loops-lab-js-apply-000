@@ -1,4 +1,4 @@
 // add solution here
-function theBeatlesPlay (
-  var musicians =
-  )
+  var musicians = []
+  
+function theBeatlesPlay ()
