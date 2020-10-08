@@ -1,7 +1,8 @@
 // add solution here
 var musicians, instruments;
 
-musicians = ["John Lennon", "Paul McCartney," "Ringo Starr," "George Harrison"]
+musicians = ["John Lennon", "Paul McCartney," "Ringo Starr," "George Harrison"];
+
 var musicians = []
 var instruments = []
   
