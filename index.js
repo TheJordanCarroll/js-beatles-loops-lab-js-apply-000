@@ -1,7 +1,8 @@
 // add solution here
-var musicians
-  var musicians = []
-  var instruments = []
+var musicians, instruments;
+
+var musicians = []
+var instruments = []
   
   for 
 function theBeatlesPlay ()
