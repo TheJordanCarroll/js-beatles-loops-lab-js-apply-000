@@ -36,6 +36,7 @@ function johnLennonFacts(arrayFacts) {
 
 console.log(johnLennonFacts(facts));
 
+
 // svar musicians = []
 // var instruments = []
 
