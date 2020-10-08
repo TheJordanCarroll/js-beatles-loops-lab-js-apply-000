@@ -11,14 +11,6 @@ for (let i = 0; i < 4; i++)
 
 var musicians, instruments;
 
-musicians = ["John Lennon", "Paul McCartney," "Ringo Starr," "George Harrison"];
+musicians = ["John Lennon", "Paul McCartney", "Ringo Starr", "George Harrison"];
 
-instruments = ["guitar", ""]
-
-var musicians = []
-var instruments = []
-  
-for (let i = 0; i < selectObject.options.length; i++)
-  for 
-  
-function theBeatlesPlay ()
+instruments = ["guitar", "bass", "drums", "guitar"]
