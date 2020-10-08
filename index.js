@@ -8,9 +8,6 @@ function theBeatlesPlay (arrayMusicians, arrayInstruments) {
 }
 
 
-
-
-
 var musicians = []
 var instruments = []
 
