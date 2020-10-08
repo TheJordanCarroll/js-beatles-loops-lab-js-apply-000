@@ -1,4 +1,7 @@
 // add solution here
+
+function theBeatlesPlay ()
+
 var musicians, instruments;
 
 musicians = ["John Lennon", "Paul McCartney," "Ringo Starr," "George Harrison"];
