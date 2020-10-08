@@ -34,7 +34,7 @@ function johnLennonFacts(arrayFacts) {
 
 console.log(johnLennonFacts(facts));
 
-// var musicians = []
+// svar musicians = []
 // var instruments = []
 
 // function theBeatlesPlay {}
