@@ -14,7 +14,7 @@ function theBeatlesPlay(arrayMusicians, arrayInstruments) {
   return results;
 }
 
-theBeatlesPlay(musicians, instruments);
+console.log(theBeatlesPlay(musicians, instruments));
 
 
 
