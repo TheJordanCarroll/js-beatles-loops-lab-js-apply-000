@@ -36,7 +36,7 @@ function johnLennonFacts(arrayFacts) {
 
 console.log(johnLennonFacts(facts));
 
-function iLoveTheBeatles(array14) {
+function iLoveTheBeatles(array1) {
   let i = 0
   let results = []
   do {
