@@ -44,5 +44,5 @@ function iLoveTheBeatles(array1) {
   i += 1; 
   console.log(i);
   } while (i < 15);
-  return.results;
+  return results;
 }
