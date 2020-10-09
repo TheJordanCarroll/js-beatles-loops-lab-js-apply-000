@@ -40,7 +40,7 @@ function iLoveTheBeatles(array1) {
   let i = 0
   let results = []
   do {
-  results.push(`I Love the Beatles!`);
+  results.push(`I love the Beatles!`);
   i += 1; 
   console.log(i);
   } while (i < 15);
