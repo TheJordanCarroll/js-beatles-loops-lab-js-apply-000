@@ -43,5 +43,6 @@ function iLoveTheBeatles(array1) {
   results.push(`I Love the Beatles!`);
   i += 1; 
   console.log(i);
-} while (i < 15);
+  } while (i < 15);
+  return.results;
 }
